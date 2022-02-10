@@ -1,2 +1,2 @@
-# SVR_GMMs_Kanto
-Support Vector Regression for Developing Ground Motion Models for Arias Intensity, Cumulative Absolute Velocity and Significant Duration for the Kanto Region, Japan
+# SVR_GMMs_Kanto1
+Support Vector Regression for Developing Ground Motion Models for Arias Intensity for the Kanto Region, Japan
